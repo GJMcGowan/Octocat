@@ -1,1 +1,3 @@
 Explain what the "upstream" remote is usually used for, in your own words
+
+The upstream remote is usually a clone of the repository you're working on, not one stored on your local computer. So a copy of the repository on Github or another server would be an upstream remote. The remote is typically used to allow backups and deployment of finished code, as well as to allow many people to collaborate on the same set of code (by pulling the remote and working on it locally)

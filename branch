@@ -1,1 +1,5 @@
 Explain what a branch is, in your own words
+
+A branch is a different version of a project under version control. The 'master' branch is the main version of the project, with other branches created to work on different aspects of it. 
+
+For example, when working on a large codebase, it's useful to make new branches to create and test new features without introducing errors to the main program. Or when working collaboratively, branches allow many people to work on different features in parallel without altering each others code.
